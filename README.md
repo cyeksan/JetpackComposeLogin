@@ -1,4 +1,4 @@
-# JetpackComposeLogin
+# JetpackComposeNavigation
 
 An example Android project showing the bottom navigation structure in Jetpack Compose. 
 
